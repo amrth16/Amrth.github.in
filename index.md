@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## About
+## About {#about}
 
 <div class="section-card">
 
@@ -17,7 +17,7 @@ Areas of long-term interest include Taxation Law, Company Law, Insolvency & Bank
 
 ---
 
-## Education
+## Education {#education}
 
 <div class="section-card">
 
@@ -42,7 +42,7 @@ CGPA: 7.58
 
 ---
 
-## Professional Experience
+## Professional Experience {#experience}
 
 <div class="section-card">
 
@@ -121,7 +121,7 @@ CGPA: 7.58
 
 ---
 
-## Research Publication
+## Research Publication {#publication}
 
 <div class="section-card">
 
@@ -147,7 +147,7 @@ Case study: Rwandan Genocide
 
 ---
 
-## Certifications
+## Certifications {#certification}
 
 <div class="section-card">
 
@@ -159,7 +159,7 @@ Issued: January 2025
 
 ---
 
-## Skills
+## Skills {#skills}
 
 <div class="section-card">
 
@@ -176,7 +176,7 @@ Issued: January 2025
 
 ---
 
-## Languages
+## Languages {#languages}
 
 <div class="section-card">
 
@@ -187,7 +187,7 @@ Tamil – Fluent
 
 ---
 
-## Contact
+## Contact {#contact}
 
 <div class="section-card">
 
