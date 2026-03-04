@@ -3,196 +3,190 @@ layout: default
 title: Home
 ---
 
-## About {#about}
+<h2 id="about">About</h2>
 
 <div class="section-card">
 
-Final Year B.Com LL.B (Hons.) student at SASTRA School of Law with academic grounding in taxation, constitutional law, and corporate legal frameworks.  
+<p>
+Final Year B.Com LL.B (Hons.) student at SASTRA School of Law with academic grounding in taxation, constitutional law, and corporate legal frameworks.
+</p>
 
+<p>
 Professional exposure includes litigation research, indirect tax advisory work, statutory interpretation, drafting of legal documents, and court procedure observation through internships with constitutional authorities, senior advocates, and chartered accountancy firms.
+</p>
 
+<p>
 Areas of long-term interest include Taxation Law, Company Law, Insolvency & Bankruptcy Code, and Constitutional Litigation.
+</p>
 
 </div>
 
----
 
-## Education {#education}
+<h2 id="education">Education</h2>
 
 <div class="section-card">
 
-### SASTRA Deemed University – School of Law  
-B.Com LL.B (Hons.) | 2021–2026  
-CGPA: 7.58  
+<h3>SASTRA Deemed University – School of Law</h3>
+<p>B.Com LL.B (Hons.) | 2021–2026<br>
+CGPA: 7.58</p>
 
-### Institute of Cost Accountants of India (ICMAI)
-- Foundation – 80% (December 2021)  
-- Intermediate Group I – 60.5% (June 2022)  
-- Intermediate Group II – 60.75% (December 2022)  
-- Final Group III – 59.75% (December 2024)  
+<h3>Institute of Cost Accountants of India (ICMAI)</h3>
+<ul>
+<li>Foundation – 80% (Dec 2021)</li>
+<li>Intermediate Group I – 60.5% (Jun 2022)</li>
+<li>Intermediate Group II – 60.75% (Dec 2022)</li>
+<li>Final Group III – 59.75% (Dec 2024)</li>
+</ul>
 
-### Institute of Chartered Accountants of India (ICAI)
-- CA Foundation – 59.25% (November 2021)  
+<h3>Institute of Chartered Accountants of India (ICAI)</h3>
+<p>CA Foundation – 59.25% (Nov 2021)</p>
 
-### Academic Schooling
-- CBSE Class XII – 97.6% (July 2021)  
-- CBSE Class X – 92% (May 2019)  
+<h3>Academic Schooling</h3>
+<p>CBSE Class XII – 97.6% (2021)<br>
+CBSE Class X – 92% (2019)</p>
 
 </div>
 
----
 
-## Professional Experience {#experience}
+<h2 id="experience">Professional Experience</h2>
 
 <div class="section-card">
 
-### Office of the Attorney General for India, New Delhi  
-**Intern under Shri R. Venkataramani**  
-17 December 2025 – 13 January 2026  
+<h3>Office of the Attorney General for India, New Delhi</h3>
+<p><strong>Intern under Shri R. Venkataramani</strong><br>
+Dec 2025 – Jan 2026</p>
 
-- Conducted research on Writ Jurisdiction versus Arbitration in Production Sharing Contracts (PSCs).  
-- Researched Mineral Concession Rules and statutory interpretation issues.  
-- Worked on Presidential References under Article 143 of the Constitution of India.  
-- Studied constitutional issues relating to Territory Cession and Capital Punishment Alternatives.  
-- Analyzed Aeronautical Tariffs and relevant statutory framework including AERA Act.  
-- Examined provisions of MMDR Act, CrPC, and constitutional Articles 3, 14–16, 200–201, and 368.  
-- Prepared Supreme Court case briefs and compiled constitutional law research notes.  
-- Attended case conferences on Constitutional and Administrative Law matters.  
+<ul>
+<li>Conducted research on Writ Jurisdiction versus Arbitration in Production Sharing Contracts (PSCs).</li>
+<li>Researched Mineral Concession Rules and statutory interpretation issues.</li>
+<li>Worked on Presidential References under Article 143 of the Constitution of India.</li>
+<li>Analyzed Aeronautical Tariffs and statutory framework including AERA Act.</li>
+<li>Examined provisions of MMDR Act, CrPC, and constitutional Articles 3, 14–16, 200–201, and 368.</li>
+<li>Prepared Supreme Court case briefs and attended constitutional law conferences.</li>
+</ul>
 
----
+<hr>
 
-### Lakshmikumaran & Sridharan Attorneys, Chennai  
-**Indirect Tax Litigation Team**  
-1 July 2025 – 31 July 2025  
+<h3>Lakshmikumaran & Sridharan Attorneys, Chennai</h3>
+<p><strong>Indirect Tax Litigation Team</strong><br>
+Jul 2025</p>
 
-- Researched Input Tax Credit disputes involving GSTR-2A / 3B mismatches and Section 16(2)(aa).  
-- Analyzed Tariff Classification disputes (CTH 9401 vs 8714 – Two-wheeler seat).  
-- Studied Recovery Proceedings under Sections 78 and 79 of the CGST Act.  
-- Researched Joint Development Agreements (JDA) and Transfer of Development Rights (TDR) valuation.  
-- Examined exemptions under Para 1A and 2A.  
-- Prepared compliance note on e-Invoice evidentiary validity.  
-- Studied Penalty defenses for interpretational disputes under Section 126.  
-- Analyzed Rule 88C and GSTR-3B Hard-Lock implications.  
+<ul>
+<li>Researched ITC disputes (GSTR-2A / 3B mismatches) and Section 16(2)(aa).</li>
+<li>Analyzed Tariff Classification disputes (CTH 9401 vs 8714).</li>
+<li>Studied Recovery Proceedings under Sections 78 and 79 of CGST Act.</li>
+<li>Worked on JDA and TDR valuation and related exemptions.</li>
+<li>Prepared compliance note on e-Invoice evidentiary validity and penalty defenses.</li>
+</ul>
 
----
+<hr>
 
-### BGS & Co, Karaikal (2024–2025)  
-**Intern under CA B. Ganapathi Subramanian**  
-20 December 2024 – 18 January 2025  
+<h3>BGS & Co, Karaikal</h3>
+<p><strong>Intern under CA B. Ganapathi Subramanian</strong><br>
+Dec 2024 – Jan 2025</p>
 
-- Reviewed Partnership Deeds for compliance and essential clauses.  
-- Analyzed GST and Income Tax Orders issued by Assessing Officers.  
-- Studied taxation of religious trusts under Sections 11, 12, and 13 of the Income Tax Act.  
-- Assisted in Audit Report Filing, Financial Review, and Compliance processes.  
+<ul>
+<li>Reviewed Partnership Deeds for compliance.</li>
+<li>Analyzed GST and Income Tax orders issued by Assessing Officers.</li>
+<li>Studied taxation of religious trusts under Sections 11–13 of the Income Tax Act.</li>
+<li>Assisted in audit reporting and compliance processes.</li>
+</ul>
 
----
+<hr>
 
-### Office of Senior Advocate G. Rajagopalan, Chennai  
-**Intern under Adv. Niranjan Rajagopalan**  
-18 January 2024 – 15 February 2024  
+<h3>Office of Senior Advocate G. Rajagopalan, Chennai</h3>
+<p><strong>Intern under Adv. Niranjan Rajagopalan</strong><br>
+Jan 2024 – Feb 2024</p>
 
-- Drafted, filed, and managed pleadings across Civil, Criminal, and Arbitration matters.  
-- Conducted in-depth legal research and prepared case briefs.  
-- Analyzed judgments relevant to ongoing litigation.  
-- Attended High Court proceedings and arbitration hearings.  
-- Assisted in petitions involving Property Law, Constitutional Law, Family Law, and Arbitration.  
+<ul>
+<li>Drafted and filed pleadings in Civil, Criminal, and Arbitration matters.</li>
+<li>Conducted detailed legal research and judgment analysis.</li>
+<li>Attended High Court proceedings and arbitration hearings.</li>
+</ul>
 
----
+<hr>
 
-### BGS & Co, Karaikal (2023)  
-**Intern under CA B. Ganapathi Subramanian**  
-25 July 2023 – 25 August 2023  
+<h3>Office of Public Prosecutor & Government Pleader, Karaikal</h3>
+<p><strong>Intern under Adv. A.V.J. Selvamuthukumaran</strong><br>
+Jan 2023 – Feb 2023</p>
 
-- Assisted in filing Income Tax Returns.  
-- Handled Capital Gains case under Section 54.  
-- Gained working knowledge of WINMAN software, GST portal, and Income Tax e-Filing portal.  
-
----
-
-### Office of Public Prosecutor & Government Pleader, Karaikal  
-**Intern under Adv. A.V.J. Selvamuthukumaran**  
-19 January 2023 – 17 February 2023  
-
-- Observed Magistrate Court, Family Court, Accident Claims Tribunal, District Court, and mediation proceedings.  
-- Conducted research on Law of Torts, Contracts, CPC, CrPC, and Hindu Religious Institutions Act.  
-- Gained exposure to procedural nuances in trial courts.  
+<ul>
+<li>Observed trial and mediation proceedings across various courts.</li>
+<li>Researched CPC, CrPC, Contracts, Torts, and HRI Act.</li>
+</ul>
 
 </div>
 
----
 
-## Research Publication {#publication}
+<h2 id="publication">Research Publication</h2>
 
 <div class="section-card">
 
-**“Regulating AI in Indian Stock Trading: Ensuring Accountability, Transparency, and Investor Protection”**  
-Published in Indian Journal of Law and Legal Research  
-Volume VII, Issue V  
-ISSN: 2582-8878  
+<p>
+<strong>Regulating AI in Indian Stock Trading: Ensuring Accountability, Transparency, and Investor Protection</strong><br>
+Indian Journal of Law and Legal Research | Volume VII, Issue V | ISSN: 2582-8878
+</p>
 
 </div>
 
----
 
-## Moot Court Achievement
+<h2 id="achievements">Moot Court Achievement</h2>
 
 <div class="section-card">
 
-Best Memorial – Sathyabama School of Law Moot Court Competition (March 2024)  
-
-Subject: International law disputes concerning genocide accountability  
-Case study: Rwandan Genocide  
+<p>
+Best Memorial – Sathyabama School of Law Moot Court Competition (Mar 2024)<br>
+Subject: International Law Disputes concerning Genocide Accountability
+</p>
 
 </div>
 
----
 
-## Certifications {#certification}
+<h2 id="certification">Certifications</h2>
 
 <div class="section-card">
 
-Taxscan Academy Certification – Master Course on PF & ESI  
-Serial No: 47235-ACA-2024  
-Issued: January 2025  
+<p>
+Taxscan Academy Certification – Master Course on PF & ESI<br>
+Serial No: 47235-ACA-2024 | Issued: Jan 2025
+</p>
 
 </div>
 
----
 
-## Skills {#skills}
+<h2 id="skills">Skills</h2>
 
 <div class="section-card">
 
-- Drafting Agreements and Legal Documents  
-- Legal Research & Case Law Analysis  
-- Research Database Utilization  
-- GST Portal & Income Tax e-Filing  
-- WINMAN Software  
-- Microsoft Office Suite  
-- Client Meeting Support  
-- Collaborative Case Preparation  
+<ul>
+<li>Legal Drafting & Documentation</li>
+<li>Legal Research & Case Law Analysis</li>
+<li>GST & Income Tax Compliance</li>
+<li>WINMAN & Government Portals</li>
+<li>Client Meeting Support & Case Preparation</li>
+</ul>
 
 </div>
 
----
 
-## Languages {#languages}
+<h2 id="languages">Languages</h2>
 
 <div class="section-card">
 
-English – Fluent  
-Tamil – Fluent  
+<p>English – Fluent<br>
+Tamil – Fluent</p>
 
 </div>
 
----
 
-## Contact {#contact}
+<h2 id="contact">Contact</h2>
 
 <div class="section-card">
 
-Email: Amrth16@gmail.com  
-Mobile: +91-9444947492  
-Address: Karaikal, Puducherry – 609605  
+<p>
+Email: Amrth16@gmail.com<br>
+Mobile: +91-9444947492<br>
+Location: Karaikal, Puducherry
+</p>
 
 </div>
